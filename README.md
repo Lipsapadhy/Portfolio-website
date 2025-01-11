@@ -6,4 +6,4 @@ The website showcases my skills, projects, and the journey I've been on as a dev
 
 Take a look and let me know your thoughts:  https://lipsapadhy.github.io/Portfolio-website/
 
-#WebDevelopment #Portfolio #HTML #CSS #JavaScript #FrontendDevelopment #ContactForm
+#WebDevelopment #Portfolio #HTML #CSS #JavaScript #FrontendDevelopment
