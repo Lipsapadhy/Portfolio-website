@@ -214,6 +214,47 @@ h2{
     border-radius: 5px;
 
 }
+.certificate li{
+    list-style-type: none;
+    text-decoration: none;
+    font-size: larger;
+    text-align: center;
+}
+
+.certificate li a{
+    text-decoration: none;
+    color: black; 
+    text-decoration: underline;
+
+}
+ .certificate{
+    margin: 20px;
+}
+.certificate1{
+    margin: 10px 0; 
+    padding: 10px;
+    background-color:antiquewhite; 
+    border: 1px solid ; 
+    border-radius: 5px;
+
+}
+
+.certificate2{
+    margin: 10px 0; 
+    padding: 10px;
+    background-color:antiquewhite; 
+    border: 1px solid ; 
+    border-radius: 5px;
+
+}
+.certificate3{
+    margin: 10px 0; 
+    padding: 10px;
+    background-color:antiquewhite; 
+    border: 1px solid ; 
+    border-radius: 5px;
+
+}
 #Contact{
     padding:2px;
     margin-top:5px;
